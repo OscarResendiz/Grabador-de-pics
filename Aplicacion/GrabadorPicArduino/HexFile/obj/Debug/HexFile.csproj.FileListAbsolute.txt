@@ -1,0 +1,16 @@
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\bin\Debug\HexFile.dll
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\bin\Debug\HexFile.pdb
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.dll
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.pdb
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.VisorHexFile.resources
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.csproj.GenerateResource.cache
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\bin\Debug\HexFile.dll
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\bin\Debug\HexFile.pdb
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.VisorHexFile.resources
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.csproj.GenerateResource.cache
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.dll
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.pdb
+D:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\HexFile\obj\Debug\HexFile.csproj.AssemblyReference.cache

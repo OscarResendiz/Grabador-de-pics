@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabadorPicArduino", "GrabadorPicArduino\GrabadorPicArduino.csproj", "{0BBC52BA-1536-4457-A4E2-F87469E6F16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexFile", "HexFile\HexFile.csproj", "{0D12A307-AFA3-4F3F-8C68-7551C1AF00B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programadores", "ArduinoProgramer\Programadores.csproj", "{6592226E-AA04-4FC0-89B2-994FC703EDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladores", "Controladores\Controladores.csproj", "{3058E7DA-6F36-4B4F-9CF4-0DFFC293B41A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBC52BA-1536-4457-A4E2-F87469E6F16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBC52BA-1536-4457-A4E2-F87469E6F16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBC52BA-1536-4457-A4E2-F87469E6F16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBC52BA-1536-4457-A4E2-F87469E6F16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D12A307-AFA3-4F3F-8C68-7551C1AF00B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D12A307-AFA3-4F3F-8C68-7551C1AF00B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D12A307-AFA3-4F3F-8C68-7551C1AF00B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D12A307-AFA3-4F3F-8C68-7551C1AF00B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6592226E-AA04-4FC0-89B2-994FC703EDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6592226E-AA04-4FC0-89B2-994FC703EDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6592226E-AA04-4FC0-89B2-994FC703EDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6592226E-AA04-4FC0-89B2-994FC703EDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3058E7DA-6F36-4B4F-9CF4-0DFFC293B41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3058E7DA-6F36-4B4F-9CF4-0DFFC293B41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3058E7DA-6F36-4B4F-9CF4-0DFFC293B41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3058E7DA-6F36-4B4F-9CF4-0DFFC293B41A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C06E29C-A661-4554-A030-EA1226D7FCCE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\bin\Debug\ArduinoProgramer.dll
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\bin\Debug\ArduinoProgramer.pdb
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.CArduinoProgramer.resources
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.csproj.GenerateResource.cache
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.dll
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.pdb
+E:\PROYECTOS\GrabadorPicsNet\Aplicacion\GrabadorPicArduino\ArduinoProgramer\obj\Debug\ArduinoProgramer.ArduinoProgramer.CArduinoProgramerConfigurator.resources
